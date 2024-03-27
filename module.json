@@ -5,7 +5,6 @@
     "description": "WWN 시스템의 한국어화 모듈입니다.",
     "version": "This is auto replaced",
     "library": "false",
-    "manifestPlusVersion": "1.0.1",
     "compatibility": {
         "minimum": 11,
         "verified": 11.315,
