@@ -47,5 +47,5 @@
     ],
     "readme": "README.md",
     "url": "https://github.com/VedminStuden/wwn-ko",
-    "manifest": ,
+    "manifest": "https://raw.githubusercontent.com/VedminStuden/wwn-ko/main/module.json" ,
     "download":
