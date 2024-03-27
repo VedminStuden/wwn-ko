@@ -42,7 +42,7 @@
         }
     ],
     "readme": "README.md",
-    "url": "This is auto replaced",
+    "url": "https://github.com/VedminStuden/wwn-ko",
     "manifest": "https://raw.githubusercontent.com/VedminStuden/wwn-ko/main/module.json" ,
     "download": "https://github.com/VedminStuden/wwn-ko/archive/refs/heads/main.zip"
 }
