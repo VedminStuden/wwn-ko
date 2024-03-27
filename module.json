@@ -19,9 +19,6 @@
     "esmodules": [
         "scripts/babele-register.js"
     ],
-    "styles": [
-        "styles/style.css"
-    ],
     "relationships": {
         "systems": [
             {
