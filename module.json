@@ -1,0 +1,48 @@
+{
+    "id": "wwn-ko",
+    "name": "wwn-ko",
+    "title": "Translation: Korean [WWN]",
+    "description": "WWN 시스템의 한국어화 모듈입니다.",
+    "version": "1.0.0",
+    "library": "false",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11.315,
+        "maximum": 12
+    },
+    "authors": [
+        {
+            "name": "VedminStuden",
+            "discord": "vedmin_studen"
+        }
+    ],
+    "esmodules": [
+        "scripts/babele-register.js"
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "wwn",
+                "type": "system"
+            }
+        ],
+        "requires": [
+            {
+                "id": "babele",
+                "type": "module",
+                "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "ko",
+            "name": "Korean",
+            "path": "localization/languages/ko/ko.json"
+        }
+    ],
+    "readme": "README.md",
+    "url": "https://github.com/VedminStuden/wwn-ko",
+    "manifest": "https://raw.githubusercontent.com/VedminStuden/wwn-ko/main/module.json" ,
+    "download": "https://github.com/VedminStuden/wwn-ko/archive/refs/heads/main.zip"
+}
