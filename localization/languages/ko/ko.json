@@ -118,7 +118,7 @@
   "WWN.details.renown.short": "명성",
 
   "WWN.Attack": "공격",
-  "WWN.Encumbrance": "하중",
+  "WWN.Encumbrance": "하중부담",
 
   "WWN.Retainer": "의뢰비",
   "WWN.RetainerWage": "임금",
@@ -248,7 +248,7 @@
   "WWN.Setting.showMovement": "턴 당 이동속도",
   "WWN.Setting.showMovementHint": "턴 당 이동속도를 보여줍니다. 캐릭터 인카운터 시 이동속도의 3배입니다.",
   "WWN.Setting.SignificantTreasure": "확연한 보물의 무게",
-  "WWN.Setting.SignificantTreasureHint": "보물의 무게가 이동속도를 감소시킵니다. 기본적으로 과적을 활성화시켰을 때만 의미있는 옵션입니다.",
+  "WWN.Setting.SignificantTreasureHint": "보물의 무게가 이동속도를 감소시킵니다. 기본적으로 하중부담을 활성화시켰을 때만 의미있는 옵션입니다.",
   "WWN.Setting.CurrencyWWN": "WWN 주화",
   "WWN.Setting.CurrencyBX": "B/X 주화",
   "WWN.Setting.xpConfig": "경험치 진전도",
@@ -517,7 +517,7 @@
     "locationRollTitleCounter": "반격 장소 참고사항",
     "counter": "반격",
     "note": "참고 사항",
-    "turnRoll": "On Turn Log/Roll 턴 굴림 로그 켜기",
+    "turnRoll": "턴 굴림 로그 켜기",
     "turnRollDesc": "파벌의 턴이 새로 시작될 때 이 텍스트(와 굴림)를 보여줍니다. 굴림이나 상기시킬 때에 쓰면 좋습니다. 기본값은 긴 설명으로 인해 숨김 처리됩니다",
     "stealthed": "는 은신상태입니까?",
     "stealth": "은신",
