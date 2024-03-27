@@ -118,7 +118,7 @@
   "WWN.details.renown.short": "명성",
 
   "WWN.Attack": "공격",
-  "WWN.Encumbrance": "하중부담",
+  "WWN.Encumbrance": "하중",
 
   "WWN.Retainer": "의뢰비",
   "WWN.RetainerWage": "임금",
@@ -248,7 +248,7 @@
   "WWN.Setting.showMovement": "턴 당 이동속도",
   "WWN.Setting.showMovementHint": "턴 당 이동속도를 보여줍니다. 캐릭터 인카운터 시 이동속도의 3배입니다.",
   "WWN.Setting.SignificantTreasure": "확연한 보물의 무게",
-  "WWN.Setting.SignificantTreasureHint": "보물의 무게가 이동속도를 감소시킵니다. 기본적으로 하중부담을 활성화시켰을 때만 의미있는 옵션입니다.",
+  "WWN.Setting.SignificantTreasureHint": "보물의 무게가 이동속도를 감소시킵니다. 기본적으로 하중을 활성화시켰을 때만 의미있는 옵션입니다.",
   "WWN.Setting.CurrencyWWN": "WWN 주화",
   "WWN.Setting.CurrencyBX": "B/X 주화",
   "WWN.Setting.xpConfig": "경험치 진전도",
