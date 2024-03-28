@@ -3,8 +3,8 @@
     "name": "wwn-ko",
     "title": "Translation: Korean [WWN]",
     "description": "WWN 시스템의 한국어화 모듈입니다.",
-    "version": "1.0.3",
-    "library": "false",
+    "version": "1.0.4",
+    "library": "true",
     "compatibility": {
         "minimum": 11,
         "verified": 11.315,
