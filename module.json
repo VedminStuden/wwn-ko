@@ -20,7 +20,7 @@
         "scripts/babele-register.js"
     ],
     "styles": [
-"styles/style.css"
+"style/style.css"
     ],
     "relationships": {
         "systems": [
