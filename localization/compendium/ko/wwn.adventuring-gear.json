@@ -1,12 +1,16 @@
 {
 	"label": "모험 장비",
+	"mapping": {
+	"description":"system.description"
+	},
 	"entries": {
 		"Arrows": {
 			"name": "화살, 20발",
 			"description": ""
 		},
 		"Artisan's Equipment": {
-			"name": "장인의 공구"
+			"name": "장인의 공구",
+			"description":"<h2>장비 묶음</h2>어떤 사람들은 장비의 무게를 자세히 재는 것에는 관심이 없습니다. 장비 묶음은 무기나 방어구가 아닌 장비들을 대강 묶어 취급하는 선택 규칙입니다."
 		},
 		"Backpack": {
 			"name": "배낭"
@@ -22,27 +26,32 @@
 			"description": ""
 		},
 		"Clothes, common": {
-			"name": "평범한 의복"
+			"name": "평범한 의복",
+			"description":"착용중일 때는 무게가 없는 것처럼 취급합니다"
 		},
 		"Clothes, fine": {
-			"name": "고급 의복"
+			"name": "고급 의복",
+			"description":"착용중일 때는 무게가 없는 것처럼 취급합니다"
 		},
 		"Clothes, noble": {
-			"name": "귀족 의상"
+			"name": "귀족 의상",
+			"description":"착용중일 때는 무게가 없는 것처럼 취급합니다"
 		},
 		"Cooking Utensils": {
 			"name": "조리 도구",
 			"description": ""
 		},
 		"Criminal Tools": {
-			"name": "범죄 도구"
+			"name": "범죄 도구",
+			"description":"<h2>장비 묶음</h2>어떤 사람들은 장비의 무게를 자세히 재는 것에는 관심이 없습니다. 장비 묶음은 무기나 방어구가 아닌 장비들을 대강 묶어 취급하는 선택 규칙입니다."
 		},
 		"Crowbar": {
 			"name": "쇠지레",
 			"description": ""
 		},
 		"Dungeoneering Kit": {
-			"name": "미궁 탐사 장비"
+			"name": "미궁 탐사 장비",
+			"description":"<h2>장비 묶음</h2>어떤 사람들은 장비의 무게를 자세히 재는 것에는 관심이 없습니다. 장비 묶음은 무기나 방어구가 아닌 장비들을 대강 묶어 취급하는 선택 규칙입니다."
 		},
 		"Firewood, one night's fire": {
 			"name": "장작, 하룻밤 분량",
@@ -88,14 +97,15 @@
 			"name": "종이 10장"
 		},
 		"Performer's Implements": {
-			"name": "공연자용 장비"
+			"name": "공연자용 장비",
+			"description":"<h2>장비 묶음</h2>어떤 사람들은 장비의 무게를 자세히 재는 것에는 관심이 없습니다. 장비 묶음은 무기나 방어구가 아닌 장비들을 대강 묶어 취급하는 선택 규칙입니다."
 		},
 		"Rations, 1 week": {
 			"name": "일주일치 식량",
 			"description": ""
 		},
 		"Rope, 50'": {
-			"name": "50피트 밧줄'",
+			"name": "50ft 밧줄",
 			"description": ""
 		},
 		"Shovel, pick, or similar tool": {
@@ -113,7 +123,8 @@
 			"description": ""
 		},
 		"Wilderness Travel Gear": {
-			"name": "물주머니"
+			"name": "야생 탐험 장비",
+			"description":"<h2>장비 묶음</h2>어떤 사람들은 장비의 무게를 자세히 재는 것에는 관심이 없습니다. 장비 묶음은 무기나 방어구가 아닌 장비들을 대강 묶어 취급하는 선택 규칙입니다."
 		},
 		"Writing Kit": {
 			"name": "필기 도구",
