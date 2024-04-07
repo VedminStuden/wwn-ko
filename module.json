@@ -23,6 +23,7 @@
       "system": "wwn",
       "flags": {}
     },
+    {
       "name": "기교(추가)",
       "label": "기교(추가)",
       "path": "packs/AdditionalArts",
@@ -33,6 +34,7 @@
       },
       "system": "wwn",
       "flags": {}
+    }
 
   ],
     "authors": [
