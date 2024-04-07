@@ -1,0 +1,8 @@
+2024/04/07-21:46:03.724 5bc4 Recovering log #4
+2024/04/07-21:46:03.736 5bc4 Delete type=0 #4
+2024/04/07-21:46:03.737 5bc4 Delete type=3 #2
+2024/04/07-21:47:22.197 762c Level-0 table #9: started
+2024/04/07-21:47:22.198 762c Level-0 table #9: 0 bytes OK
+2024/04/07-21:47:22.201 762c Delete type=0 #7
+2024/04/07-21:47:22.208 762c Manual compaction at level-0 from '!items!1VGgnjy86DGUqwcw' @ 72057594037927935 : 1 .. '!items.effects!vtjmOAToA3WxDmQe.ol0VHLBX18ps748F' @ 0 : 0; will stop at (end)
+2024/04/07-21:47:22.243 762c Manual compaction at level-1 from '!items!1VGgnjy86DGUqwcw' @ 72057594037927935 : 1 .. '!items.effects!vtjmOAToA3WxDmQe.ol0VHLBX18ps748F' @ 0 : 0; will stop at (end)
