@@ -24,7 +24,7 @@
       "flags": {}
     },
     {
-      "name": "AdditionalFocus",
+      "name": "AdditionalArts",
       "label": "기교(추가)",
       "path": "packs/AdditionalArts",
       "type": "Item",
