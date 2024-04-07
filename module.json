@@ -10,6 +10,31 @@
         "verified": 11.315,
         "maximum": 12
     },
+  "packs": [
+    {
+      "name": "Item-7FssVaBNeKfW24g0",
+      "label": "포커스(추가)",
+      "path": "packs/Item-7FssVaBNeKfW24g0",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wwn",
+      "flags": {}
+    },
+      "name": "Item-T4HRXmQxjEovBVP6",
+      "label": "기교(추가)",
+      "path": "packs/Item-T4HRXmQxjEovBVP6",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wwn",
+      "flags": {}
+
+  ],
     "authors": [
         {
             "name": "VedminStuden",
