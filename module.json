@@ -12,7 +12,7 @@
     },
   "packs": [
     {
-      "name": "포커스(추가)",
+      "name": "AdditionalFocus",
       "label": "포커스(추가)",
       "path": "packs/AdditionalFocus",
       "type": "Item",
@@ -24,7 +24,7 @@
       "flags": {}
     },
     {
-      "name": "기교(추가)",
+      "name": "AdditionalFocus",
       "label": "기교(추가)",
       "path": "packs/AdditionalArts",
       "type": "Item",
