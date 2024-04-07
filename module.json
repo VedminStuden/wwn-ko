@@ -12,9 +12,9 @@
     },
   "packs": [
     {
-      "name": "Item-7FssVaBNeKfW24g0",
+      "name": "포커스(추가)",
       "label": "포커스(추가)",
-      "path": "packs/Item-7FssVaBNeKfW24g0",
+      "path": "packs/AdditionalFocus",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -23,9 +23,9 @@
       "system": "wwn",
       "flags": {}
     },
-      "name": "Item-T4HRXmQxjEovBVP6",
+      "name": "기교(추가)",
       "label": "기교(추가)",
-      "path": "packs/Item-T4HRXmQxjEovBVP6",
+      "path": "packs/AdditionalArts",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
