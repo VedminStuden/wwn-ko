@@ -1,11 +1,7 @@
 {
   "label": "무기",
   "mapping": {
-    "desc": "system.description",
-	"tag0": "system.tags.0.value",
-	"tag1": "system.tags.1.value",
-	"tag2": "system.tags.2.value",
-	"tag3": "system.tag.3.value"
+    "desc": "system.description"
   },
   "entries": {
     "Axe, Hand": {
